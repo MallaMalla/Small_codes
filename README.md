@@ -1,5 +1,5 @@
 # Small_codes
- Very bits of practice
+ Very tiny bits of practices
  
  Tiny bits of Java code.
  
